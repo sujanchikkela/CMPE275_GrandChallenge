@@ -1,0 +1,4 @@
+chatlog: "/Users/SATVIK/Desktop/grpcchat123/chat.log"
+serverip: "localhost"
+serverport: 8080
+apiserverport: 8000

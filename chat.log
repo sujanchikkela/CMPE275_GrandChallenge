@@ -1,0 +1,9 @@
+server:2022-10-24 01:11:43.751746 -0700 PDT m=+133.030827835:hi from server
+server:2022-10-24 01:12:09.967627 -0700 PDT m=+159.246920876:I can send messages which will reflect in all clients including red pipe
+server:2022-10-24 01:12:49.762093 -0700 PDT m=+199.041709876:if clients turn off, they cant recieve messages
+bluepipe1:2022-10-24 01:13:02.319368 -0700 PDT m=+166.672115001:Hi from bluepipe 1
+bluepipe2:2022-10-24 01:13:16.407746 -0700 PDT m=+156.097533418:hi from bluepipe 2
+bluepipe3:2022-10-24 01:13:25.703754 -0700 PDT m=+138.509804418:hi from bluepipe 3
+bluepipe4:2022-10-24 01:13:33.384889 -0700 PDT m=+121.725271667:hi from bluepipe 4
+bluepipe3:2022-10-24 01:14:59.403437 -0700 PDT m=+232.210247251:im bluepipe 3, im turning off, i cant recieve any messages here after
+bluepipe2:2022-10-24 01:15:13.171454 -0700 PDT m=+272.862189126:bye bye bluepipe 3
