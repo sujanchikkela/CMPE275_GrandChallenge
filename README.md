@@ -8,7 +8,7 @@
 | Sakruthi Avirineni |https://github.com/sakruthiavirineni |
 | Rajashekar Reddy Kommula | https://github.com/Rajashekarredde |
 
-![grpc]([https://user-images.githubusercontent.com/27505090/169949550-e2226407-2aa6-4a21-ac00-de5effc5689f.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrpc.io%2Fdocs%2Fwhat-is-grpc%2Fintroduction%2F&psig=AOvVaw24jTe3qC9F1aLg7WcPj558&ust=1666660347037000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj9qOHX9_oCFQAAAAAdAAAAABAE.jpeg)
+![grpc](https://user-images.githubusercontent.com/27505090/197429185-d0383a19-c4bc-48c0-89a0-2ab874ed58a1.svg)
 
 ## Collaboration Plan:
 
