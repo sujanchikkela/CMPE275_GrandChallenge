@@ -7,6 +7,7 @@
 | Satvik | https://github.com/ArunSatvik |
 | Sakruthi Avirineni |https://github.com/sakruthiavirineni |
 | Rajashekar Reddy Kommula | https://github.com/Rajashekarredde |
+| Akshay Madiwalar | https://github.com/akshaymadiwalar |
 
 
 
