@@ -11,7 +11,7 @@
 
 
 
-![grpc](https://user-images.githubusercontent.com/27505090/197429185-d0383a19-c4bc-48c0-89a0-2ab874ed58a1.svg)
+![grpc](Architecture Diagram.png)
 
 ## Collaboration Plan:
 
