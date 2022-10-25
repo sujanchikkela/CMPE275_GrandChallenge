@@ -1,3 +1,6 @@
+https://forthebadge.com/images/badges/made-with-go.svg
+
+
 ## CMPE275_GrandChallenge
 
 ## Project Members:
@@ -11,7 +14,7 @@
 
 
 
-![grpc]([Architecture Diagram.png](https://github.com/sujanchikkela/CMPE275_GrandChallenge/blob/main/Architecture%20Diagram.png))
+![grpc](https://user-images.githubusercontent.com/27505090/197429185-d0383a19-c4bc-48c0-89a0-2ab874ed58a1.svg)
 
 ## Collaboration Plan:
 
@@ -34,4 +37,18 @@ We have attempted to connect similar clients (Go lang clients) and stream the me
   * Blocking Queue
   * goLang
   * Python
+  
+## Objective
+The objective of this grand challenge is to construct a software tool that connects processes together to manage the three Vs. (Volume, Velocity, and    variety) and the volatility of the process participation lifecycle.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
