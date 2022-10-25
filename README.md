@@ -11,7 +11,7 @@
 
 
 
-![grpc](Architecture Diagram.png)
+![grpc]([Architecture Diagram.png](https://github.com/sujanchikkela/CMPE275_GrandChallenge/blob/main/Architecture%20Diagram.png))
 
 ## Collaboration Plan:
 
