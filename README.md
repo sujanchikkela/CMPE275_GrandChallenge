@@ -1,5 +1,5 @@
-https://forthebadge.com/images/badges/made-with-go.svg
-[![forthebadge made-with-go](https://forthebadge.com/images/badges/made-with-go.svg)]
+
+![forthebadge made-with-go](https://forthebadge.com/images/badges/made-with-go.svg)
 
 
 ## CMPE275_GrandChallenge
