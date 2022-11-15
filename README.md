@@ -4,9 +4,10 @@
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 
-## CMPE275_GrandChallenge
+## CMPE275_Grand_Challenge
 
 ## Project Members:
+
 | Project Members | GitHub-Profile-Link | 
 | ----- | ----- |
 | Sujan Rao Chikkela | https://github.com/sujanchikkela |
@@ -38,7 +39,7 @@ We have attempted to connect similar clients (Go lang clients) and stream the me
   * gRpc
   * ProtoBuf
   * Blocking Queue
-  * goLang
+  * GoLang
   * Python
   
 ## Objective
